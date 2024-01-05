@@ -3,7 +3,7 @@
 ## what is sharpsvr
 
 sharpsvr 是一个企业级的dotnetcore rpc框架,最新版本基于dotnetcore 2.0开发, 支持
-符合dotnetcore 规范的所有平台.传统企业级服务通过只需引用sharpsvr库简单的改造即可变成
+符合dotnetcore all platforms that support dotnetcore environments.传统企业级服务通过只需引用sharpsvr库简单的改造即可变成
 分布式服务.sharpsvr是一个轻量级\性能优秀的框架.可以同时支持多达上千个客户端链接提供
 稳定的服务支持.sharpsvr计划陆续支持"远程调用"\"服务发现"\"服务版本"\"服务升级降级"\"服务路由"\"自动节点检查"等
 功能.
